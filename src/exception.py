@@ -6,7 +6,7 @@ def get_error_message(error_message: Exception,error_details: sys):
         linenumber = exc_tb.tb_lineno
         
         error_message = f"""
-        Error occured in script file {filename},
+        Exception occured in script file {filename},
         line numer {linenumber},
         error message is {str(error_message)}
         """
