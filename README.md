@@ -4,6 +4,8 @@ This is a template for starting Deeplearning projects.
 
 - Use this template and make your repository.
 
+- Edit your own README.md file
+
 - After making new repo, do check your requirements of the project and edit requirements files
 
 - change your project name, author name, author email as required.
