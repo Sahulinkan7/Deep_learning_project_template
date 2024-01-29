@@ -6,7 +6,7 @@ list_of_files=[
     f"src/__init__.py",
     f"src/components/__init__.py",
     f"src/utils/__init__.py",
-    f"src/utils/common.py",
+    f"src/utils/commonutils.py",
     f"src/constants/__init__.py",
     f"src/pipeline/__init__.py",
     f"src/pipeline/training_pipeline.py",
@@ -20,6 +20,9 @@ list_of_files=[
     f"setup.py",
     f"requirements.txt",
     f"requirements_dev.txt",
+    f"tests/__init__.py",
+    f"tests/integration/__init__.py",
+    f"tests/unit/__init__.py"
 ]
 
 for filepath in list_of_files:
